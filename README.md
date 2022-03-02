@@ -1,6 +1,4 @@
-# androidStudioAPI
-
-Project ini memabahas tentang bagaimana API
+# Project ini memabahas tentang API
 
 Tampilan Dari Apilkasi androidStudioAPI
 
